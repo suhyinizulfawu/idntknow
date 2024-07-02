@@ -1,0 +1,130 @@
+.body{
+    background-image: url("image/background.avif");
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 25px;
+    
+
+    
+}
+.container1{
+    margin-left: 20px;
+}
+.container2{
+    margin-left:350px;
+}
+.bite{
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(228, 68, 94);
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+.clock{
+    font-size: 28px;
+    color: rgb(69, 19, 19);
+    padding-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+.cravings{
+    font-size: 20px;
+    color: rgb(156, 50, 50);
+    margin-top: 5px;
+    font-style: italic;
+}
+.img{
+    width: 30px;
+    margin-left: 70px;
+    margin-bottom: 0px; 
+}
+.pimg{
+    width: 20px;
+    color: rgb(220, 55, 55);
+}
+.num{
+    font-size: 30px;
+    margin-top: 0px;
+    padding-left: 20px;
+    width: 80%;
+    color: rgb(156, 50, 50);
+    margin-bottom: 5px;
+}
+.order{
+    margin-bottom: 0px;
+    font-size: 15px;
+    color: rgb(156, 50, 50);
+}
+.kotei{
+    color: rgb(156, 50, 50);
+    font-size: 20px;
+    margin-top: 0px;
+}
+.cakes{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 20px;
+    
+}
+.cake{
+    width: 200px;
+    border: 2px;
+    height: 200px;
+    border-color: brown;
+    border: 2px solid #e46666;
+    padding-left: 2px;
+}
+.bday{
+    background-color: rgb(248, 48, 81);
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-bottom: 2px;
+   
+}
+.birthday{
+    margin-left: 30px;
+}
+.container3{
+    display: flex;
+}
+.bday2{
+    background-color: rgb(248, 48, 81);
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-bottom: 2px;
+}
+.ccake{
+    margin-left: 120px;
+}
+.h2{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.pastry{
+    background-color: rgb(248, 48, 81);
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px; 
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.lp{
+    color: rgb(248, 48, 81) ;
+    padding-left: 170px;
+    font-size: 15px;
+}
